@@ -15,6 +15,7 @@ namespace _3enRayaJB
 {
     public partial class Form2 : Form
     {
+        // cambio
         //List<Jugador> listJugadores;
         Jugador jug = new Jugador();
         int wins1 = 0;
