@@ -11,10 +11,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 
-namespace _3enRayaJB
+namespace _3enRayaJB 
 {
     public partial class Form2 : Form
     {
+        //Prueba git cambios
         //List<Jugador> listJugadores;
         Jugador jug = new Jugador();
         int wins1 = 0;
